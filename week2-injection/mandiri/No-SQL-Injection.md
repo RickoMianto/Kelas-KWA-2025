@@ -1,7 +1,7 @@
 # Soal
-Kategori: Web Exploitation
-Judul : No SQL Injection
-Tag : Medium, Web Exploitation, picoCTF 2024, browser_webshell_solvable
+- Kategori: Web Exploitation
+- Judul : No SQL Injection
+- Tag : Medium, Web Exploitation, picoCTF 2024, browser_webshell_solvable
 
 # Resource
 https://play.picoctf.org/practice/challenge/443?category=1&page=1&search=sql
